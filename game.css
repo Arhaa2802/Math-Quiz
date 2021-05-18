@@ -1,0 +1,27 @@
+#output{
+    background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+body{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpFJoE2DH5q85tYIoW_PWqz5ynKd5Slq-eVw&usqp=CAU);
+    background-position: center;
+    background-size: cover;
+    
+}
+
+#player1 , #player2
+{
+	display: inline-block;
+	margin-left: 20px;
+    font-size: 20px;
+}
+
+
+
+
+
+
